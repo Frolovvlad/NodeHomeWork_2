@@ -4,11 +4,11 @@
   "description": "Home Work -1",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main"
   },
   "author": "Frolov Vladislav",
   "license": "ISC",
   "dependencies": {
-    "yargs": "^15.0.2"
+    "dotenv": "^8.2.0"
   }
 }
